@@ -1,2 +1,2 @@
 # clone-tabnews
-Implementation of the site tabnew.com.br
+Implementation of the site tabnews.com.br
